@@ -36,16 +36,11 @@ pip install geopandas rasterio pandas numpy shapely matplotlib
 ## Outputs
 
 - Building population estimates
-- Synthetic individual population (day/night)
+- population distribution (day/night)
 - Population maps
-
-## Applications
-
-- Flood and earthquake exposure
-- Risk assessment
-- Evacuation planning
-- Urban resilience studies
 
 ## License
 
-Specify your preferred license (e.g., MIT).
+This folder is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See [LICENSE](LICENSE).
+
+SPDX-License-Identifier: CC-BY-NC-ND-4.0
